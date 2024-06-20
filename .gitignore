@@ -1,0 +1,3 @@
+vault-k8s-auth-backup
+*.json
+!.vscode/launch.json
